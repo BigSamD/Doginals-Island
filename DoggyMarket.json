@@ -1,0 +1,2410 @@
+[
+    {
+        "inscriptionId": "2743ea8357010f9e6856af7af28820b79ff7a6d847bbb653469e765f087b782ei0",
+        "name": "Doginals Island #1",
+        "attributes": {
+            "Name": "Flutter",
+            "Animals": "Butterfly"
+        }
+    },
+    {
+        "inscriptionId": "20a0ea3606bc2a663f021e9a1bccec74b25399a5b170aad760946d6968afa186i0",
+        "name": "Doginals Island #2",
+        "attributes": {
+            "Name": "Rare Gold Bone",
+            "Item": "Tresure"
+        }
+    },
+    {
+        "inscriptionId": "172dd1a683071a3a79b8a9b42cfe0cbff7d73253640412f35c58773f6755ecc0i0",
+        "name": "Doginals Island #3",
+        "attributes": {
+            "Name": "Manty",
+            "Animals": "Praying Mantis"
+        }
+    },
+    {
+        "inscriptionId": "7a797d173d2558a7bb2a7319447da1ff01c19720ba3a261ac45d2afbdfbf5483i0",
+        "name": "Doginals Island #4",
+        "attributes": {
+            "Name": "Power Crystal",
+            "Item": "Gemstone"
+        }
+    },
+    {
+        "inscriptionId": "29675d24adc906533759cac3246dbf936d228af31c81abe618dbb3bee74baa5bi0",
+        "name": "Doginals Island #5",
+        "attributes": {
+            "Name": "Harpy Eagle",
+            "Animals": "Harpia harpyja"
+        }
+    },
+    {
+        "inscriptionId": "a656b0187c6d0ffd1e879fe0222f7d0ae676bc207a98306d55bd5ab82836602di0",
+        "name": "Doginals Island #6",
+        "attributes": {
+            "Name": "Moonstone",
+            "Item": "Gemstone"
+        }
+    },
+    {
+        "inscriptionId": "67113d686148b6936212a1f83bf75e38ec180b7a6ea1f957e0b8434fd58eecc0i0",
+        "name": "Doginals Island #7",
+        "attributes": {
+            "Name": "Black Diamonds",
+            "Item": "Gemstone"
+        }
+    },
+    {
+        "inscriptionId": "a01f764861f1269bf7e51ac0c4a6e3d86200d398248827aca77c7a9b593fe380i0",
+        "name": "Doginals Island #8",
+        "attributes": {
+            "Name": "Venomwing",
+            "Animals": "Mosquito"
+        }
+    },
+    {
+        "inscriptionId": "70412e52df206ce1f385b69eb9146981be2e72560300a79d327c211fb78b486ei0",
+        "name": "Doginals Island #9",
+        "attributes": {
+            "Name": "Snapjaw",
+            "Animals": "Caiman"
+        }
+    },
+    {
+        "inscriptionId": "d47206a8546ff9ea0cebdd65b6c7e28d4742ec980519e3f870de5ab6fb5ee364i0",
+        "name": "Doginals Island #10",
+        "attributes": {
+            "Name": "Zapper",
+            "Animals": "Electric Eel"
+        }
+    },
+    {
+        "inscriptionId": "8a02f5315ff8d52c77678701360699408d479cd8510f50fb83fa38ef6090df13i0",
+        "name": "Doginals Island #11",
+        "attributes": {
+            "Name": "Ciddy",
+            "Animals": "Cicada"
+        }
+    },
+    {
+        "inscriptionId": "3b6fc29889f2670d1e8229d3ca62454176684b467fbc4189ec04d47182a4e0e7i0",
+        "name": "Doginals Island #12",
+        "attributes": {
+            "Name": "Dr. Liam Carter",
+            "Human": "Researcher"
+        }
+    },
+    {
+        "inscriptionId": "24facac93fbe9843d399a67cdabf114f4ca9bfc3d933b8f2e011746ddfbb1769i0",
+        "name": "Doginals Island #13",
+        "attributes": {
+            "Name": "Aardy",
+            "Animals": "Aardvark"
+        }
+    },
+    {
+        "inscriptionId": "3813a2df300deac3498758ad3e042683b1cdd1ca57f7c1fdf4fc28f4b443eb2ci0",
+        "name": "Doginals Island #14",
+        "attributes": {
+            "Name": "Doginals Island Map (Secret Treasure)",
+            "Item": "Map"
+        }
+    },
+    {
+        "inscriptionId": "1fc155f454500d8317079b24190db7ffc1a59ad7bccd81f04e5a1576e848822di0",
+        "name": "Doginals Island #15",
+        "attributes": {
+            "Name": "Lora",
+            "Human": "Indigenous"
+        }
+    },
+    {
+        "inscriptionId": "077ee109b7a8c33a5815b7748f3185187a4c56cff481bcb82fc1434bb43b7805i0",
+        "name": "Doginals Island #16",
+        "attributes": {
+            "Name": "Gally",
+            "Animals": "Galago"
+        }
+    },
+    {
+        "inscriptionId": "ab263a80e3010bf445adf1c545e7fcd11240c5de95f1ecbaa6148a79c5d9a1d3i0",
+        "name": "Doginals Island #17",
+        "attributes": {
+            "Name": "Mura",
+            "Human": "Indigenous"
+        }
+    },
+    {
+        "inscriptionId": "f798984e12233082750a6a95c282a7a71bb3ca1e3575859cda7f0ca1532d7429i0",
+        "name": "Doginals Island #18",
+        "attributes": {
+            "Name": "Magical Rose Quartz",
+            "Item": "Gemstone"
+        }
+    },
+    {
+        "inscriptionId": "c49e8dc53529a498068262176fbd32afeeb79afaf2355f281481cbd931460a56i0",
+        "name": "Doginals Island #19",
+        "attributes": {
+            "Name": "Scooter",
+            "Animals": "Sea Turtle"
+        }
+    },
+    {
+        "inscriptionId": "703acce25bb325ad1da578d40676c9aa1d0caa25ad09be4f9a94ea842729d0e4i0",
+        "name": "Doginals Island #20",
+        "attributes": {
+            "Name": "Aztec Gold Vase",
+            "Item": "Artifact"
+        }
+    },
+    {
+        "inscriptionId": "cf28cc51b1e9caafd328cc714f64d87a063a0561f5ba5aed84d30dc638da095fi0",
+        "name": "Doginals Island #21",
+        "attributes": {
+            "Name": "Iggy",
+            "Animals": "Iguana"
+        }
+    },
+    {
+        "inscriptionId": "e6d6ba78d4a9d4187afd388d08eb0f5643492a2168ca66c914b9e8602d76cc34i0",
+        "name": "Doginals Island #22",
+        "attributes": {
+            "Name": "Grunter",
+            "Animals": "Warthog"
+        }
+    },
+    {
+        "inscriptionId": "74158830b6d9b3b15265a0a9437274e08479bdb49b779c8919df78c2693b010fi0",
+        "name": "Doginals Island #23",
+        "attributes": {
+            "Name": "Snuggler",
+            "Animals": "Chinchilla"
+        }
+    },
+    {
+        "inscriptionId": "1ad5acea53f1e65dc9ce7341e7448cb8a19a78659691a58956e554f139842e25i0",
+        "name": "Doginals Island #24",
+        "attributes": {
+            "Name": "Weaver",
+            "Animals": "Weaver Ant"
+        }
+    },
+    {
+        "inscriptionId": "492207eec0e7a8f546f959fa49b5092eac78b553c2cad6c16210335d4fdb7157i0",
+        "name": "Doginals Island #25",
+        "attributes": {
+            "Name": "Annie",
+            "Animals": "Antelope"
+        }
+    },
+    {
+        "inscriptionId": "8076435d3a7b0fc75b3f4bdcb3317e07199ae75a3e6d150df3b8731dc42c246ai0",
+        "name": "Doginals Island #26",
+        "attributes": {
+            "Name": "Swingy",
+            "Animals": "Gibbon"
+        }
+    },
+    {
+        "inscriptionId": "f1f42e09020ebbf13e301c28141a1d877578d0b065b570f1efd6345f1c1048eei0",
+        "name": "Doginals Island #27",
+        "attributes": {
+            "Name": "Pema",
+            "Human": "Indigenous"
+        }
+    },
+    {
+        "inscriptionId": "e0ee6bc41eed0eda3cc3aeb487e18b6399c75ce66e70cebed21a7baab04f0d1di0",
+        "name": "Doginals Island #28",
+        "attributes": {
+            "Name": "Hooey",
+            "Animals": "Howler Monkey"
+        }
+    },
+    {
+        "inscriptionId": "9189f1b6d5c8d4243a51c8df880e157fc6fc67afeb32c24de96e2ad7a8464a8di0",
+        "name": "Doginals Island #29",
+        "attributes": {
+            "Name": "Drolly",
+            "Animals": "Drill"
+        }
+    },
+    {
+        "inscriptionId": "4302f08cb060b66fda58560d02affe58886b76c163d075ce3557bca100d7ad4ci0",
+        "name": "Doginals Island #30",
+        "attributes": {
+            "Name": "Kudy",
+            "Animals": "Kudu"
+        }
+    },
+    {
+        "inscriptionId": "eb4d553aa4c908f23e1964eb69cd4988f6a0d555866677329db49b05429efea3i0",
+        "name": "Doginals Island #31",
+        "attributes": {
+            "Name": "Gigi",
+            "Animals": "Giraffe"
+        }
+    },
+    {
+        "inscriptionId": "63d8471c0f71e712c2a30bb838653de9ce8434f34157f5c5620ff94a2c7798a1i0",
+        "name": "Doginals Island #32",
+        "attributes": {
+            "Name": "Ancient Gold Coins",
+            "Item": "Treasure"
+        }
+    },
+    {
+        "inscriptionId": "963e4194e2dfbf2f47790b8303256e256f9922c4fd62337310c92af85c2a8f90i0",
+        "name": "Doginals Island #33",
+        "attributes": {
+            "Name": "Prowly",
+            "Animals": "Leopard"
+        }
+    },
+    {
+        "inscriptionId": "14f8c6c2abb6a12d930b0606d3908575b42512af949d0de0185a34a81b6ebe60i0",
+        "name": "Doginals Island #34",
+        "attributes": {
+            "Name": "Glower",
+            "Animals": "Glow Worm"
+        }
+    },
+    {
+        "inscriptionId": "23f7b78a55d29a89eb1f843469cea91536d199eb917dfde8d0f327f8ca4f40d0i0",
+        "name": "Doginals Island #35",
+        "attributes": {
+            "Name": "Servy",
+            "Animals": "Serval"
+        }
+    },
+    {
+        "inscriptionId": "669b4d1b1d4fef1bb6b6f692ffe57f326823172746448e745d1a70b987a97e02i0",
+        "name": "Doginals Island #36",
+        "attributes": {
+            "Name": "Chamy",
+            "Animals": "Chameleon"
+        }
+    },
+    {
+        "inscriptionId": "e1fd301c17ea77f9aa560015bac146ead183a6c986d564da6e9a8f7fbf3d199ei0",
+        "name": "Doginals Island #37",
+        "attributes": {
+            "Name": "Buzzo",
+            "Animals": "Honeybee"
+        }
+    },
+    {
+        "inscriptionId": "ef0afc007b44b2a317659e40b7d92db453bdedc90e3d3842fdfe9d9bfa1ae47ci0",
+        "name": "Doginals Island #38",
+        "attributes": {
+            "Name": "Specty",
+            "Animals": "Spectacled Bear"
+        }
+    },
+    {
+        "inscriptionId": "50623bd26e5ed8f364541962329ee5c80061357a9372852a48406c0a1c35be5ei0",
+        "name": "Doginals Island #39",
+        "attributes": {
+            "Name": "Roary",
+            "Animals": "Clouded Leopard"
+        }
+    },
+    {
+        "inscriptionId": "7a8a4e2a6e42734db40af2ca9ea77f518b8a2f003d7a5648e64a449150ccdd0ei0",
+        "name": "Doginals Island #40",
+        "attributes": {
+            "Name": "Nibbler",
+            "Animals": "Paca"
+        }
+    },
+    {
+        "inscriptionId": "159b5d3e49fc8db6951127a4892b91180efee727070217233a7b2dadf28f2bd3i0",
+        "name": "Doginals Island #41",
+        "attributes": {
+            "Name": "Crocky",
+            "Animals": "Crocodile"
+        }
+    },
+    {
+        "inscriptionId": "6eaa5946649ec92d01e6bc441e862e5afe8efc05c747b4b6b7a6aaccdd1be6f1i0",
+        "name": "Doginals Island #42",
+        "attributes": {
+            "Name": "Howler",
+            "Animals": "Wolf"
+        }
+    },
+    {
+        "inscriptionId": "82d6fb9eaea7df43cbb641ccf08ea9398f1db882050ad245cee2e2cc3011e874i0",
+        "name": "Doginals Island #43",
+        "attributes": {
+            "Name": "Webby",
+            "Animals": "Spider"
+        }
+    },
+    {
+        "inscriptionId": "61b72277ad34dc611bc9a4fb3eea0e3dd1279539fbf15997c7f1fcb8bc857458i0",
+        "name": "Doginals Island #44",
+        "attributes": {
+            "Name": "Slimy",
+            "Animals": "Snail"
+        }
+    },
+    {
+        "inscriptionId": "456d763c870646141024974c6538e8ba141b2c5f7d9bf3d275bf29712a4b90adi0",
+        "name": "Doginals Island #45",
+        "attributes": {
+            "Name": "Dotty",
+            "Animals": "Ladybug"
+        }
+    },
+    {
+        "inscriptionId": "c97b5181ce6cf89f2bd7f86d773ab10f4e17b9396abe2e31cce64b17811d8c29i0",
+        "name": "Doginals Island #46",
+        "attributes": {
+            "Name": "Lesser Treasure Map",
+            "Item": "Map"
+        }
+    },
+    {
+        "inscriptionId": "ed0483e5f940f98686b46429fdd44e04a0cdbfee961f5d855b3687bea16e9bb2i0",
+        "name": "Doginals Island #47",
+        "attributes": {
+            "Name": "Nyya",
+            "Animals": "Hyena"
+        }
+    },
+    {
+        "inscriptionId": "84c8b68267381e3c8b5848e368a0c703143dccc52e2f07ba1712af965950d8c5i0",
+        "name": "Doginals Island #48",
+        "attributes": {
+            "Name": "Crawly",
+            "Animals": "Caterpillar"
+        }
+    },
+    {
+        "inscriptionId": "eb5b3b516d986c3d3ab2f2f9bed04036f726c916b2252215708450c863368bbci0",
+        "name": "Doginals Island #49",
+        "attributes": {
+            "Name": "Mad Dog Marlow",
+            "Human": "Hunter"
+        }
+    },
+    {
+        "inscriptionId": "60bd32aa4ba03c1bef163c0ef7370ba870511fb68e08a48689541824fc96ad00i0",
+        "name": "Doginals Island #50",
+        "attributes": {
+            "Name": "Tappy",
+            "Animals": "Tapir"
+        }
+    },
+    {
+        "inscriptionId": "7ee244906bbb35bc98b1a3e071acd4cf1824ed851ed406f483ccdd1586a688eai0",
+        "name": "Doginals Island #51",
+        "attributes": {
+            "Name": "Buzzkill",
+            "Animals": "Tsetse Fly"
+        }
+    },
+    {
+        "inscriptionId": "78cbf63a3ec8e8f5c7c51906527715531e1bf603df5ef9d979a0eaeeba8ba79ei0",
+        "name": "Doginals Island #52",
+        "attributes": {
+            "Name": "Tukey",
+            "Animals": "Keel-billed Toucan"
+        }
+    },
+    {
+        "inscriptionId": "f45ae462fb55decea572a1f5c14f13995f83fe1068c41ff1b787e6e967852c10i0",
+        "name": "Doginals Island #53",
+        "attributes": {
+            "Name": "Kinkajou",
+            "Animals": "Potos flavus"
+        }
+    },
+    {
+        "inscriptionId": "609b9950f8c85f74f82f727a9f5ef791c38b2f7fe6e4cb3bbfce757af167d9eai0",
+        "name": "Doginals Island #54",
+        "attributes": {
+            "Name": "Ducky",
+            "Animals": "Duck"
+        }
+    },
+    {
+        "inscriptionId": "2c9332f36441f972396414bfc6f078bddd483be7df700eba649edf07cc480ca6i0",
+        "name": "Doginals Island #55",
+        "attributes": {
+            "Name": "Tarsier",
+            "Animals": "Tarsius"
+        }
+    },
+    {
+        "inscriptionId": "eb6739329c36a7f80128f074f3c0df469791a92d28614068fdd19318493a5da4i0",
+        "name": "Doginals Island #56",
+        "attributes": {
+            "Name": "Fate Gem",
+            "Item": "Gemstone"
+        }
+    },
+    {
+        "inscriptionId": "0415a4336b26a6552bfbe69fdc64a5583445d8b9047c28f2386971c9eefa7156i0",
+        "name": "Doginals Island #57",
+        "attributes": {
+            "Name": "Zumi",
+            "Human": "Indigenous"
+        }
+    },
+    {
+        "inscriptionId": "4cc647acfbc0ed0d9bfe5fea431c5373f96f6ece9122c735edb0b3e03d3a063bi0",
+        "name": "Doginals Island #58",
+        "attributes": {
+            "Name": "Plumo",
+            "Animals": "Peacock"
+        }
+    },
+    {
+        "inscriptionId": "7e432cf0fa5370d484fad62ed965905ed5ef14cd1193498e4ae2ccec76a05959i0",
+        "name": "Doginals Island #59",
+        "attributes": {
+            "Name": "Pumy",
+            "Animals": "Puma"
+        }
+    },
+    {
+        "inscriptionId": "268dab9755dbd3fede997507e6da9b17fe6abff1ee9d84a1f9e4cbc908deb0d4i0",
+        "name": "Doginals Island #60",
+        "attributes": {
+            "Name": "Jade Crown",
+            "Item": "Artifact"
+        }
+    },
+    {
+        "inscriptionId": "4b85f3760912faecf4ada756b5e0c4bb3216597f4ac49f9814b86e1765dbc9d7i0",
+        "name": "Doginals Island #61",
+        "attributes": {
+            "Name": "Cassy",
+            "Animals": "Cockatoo"
+        }
+    },
+    {
+        "inscriptionId": "bbb9354e21c63ad778e57cb188b230e46b800febdd22c139aeac2cd7d7ddd60fi0",
+        "name": "Doginals Island #62",
+        "attributes": {
+            "Name": "Rune Stone",
+            "Item": "Artifact"
+        }
+    },
+    {
+        "inscriptionId": "8d8b6f237007d8707413ab67ad88f13b789f6eae48d2b745159cef74dc867d2ai0",
+        "name": "Doginals Island #63",
+        "attributes": {
+            "Name": "Tala",
+            "Human": "Indigenous"
+        }
+    },
+    {
+        "inscriptionId": "a3032fe149b3efd47798495efaf2f02f6a2735d9b1d6bc30628850b9381d5f65i0",
+        "name": "Doginals Island #64",
+        "attributes": {
+            "Name": "Quoky",
+            "Animals": "Quokka"
+        }
+    },
+    {
+        "inscriptionId": "6c9cbf421b8a728d1f1a7fa020f0e3ef9fd70e0d1c863ac9c52bd05caf89dd12i0",
+        "name": "Doginals Island #65",
+        "attributes": {
+            "Name": "Bone",
+            "Animals": "shiba-inu"
+        }
+    },
+    {
+        "inscriptionId": "6e604abbb3aabe97d81a50ff50c8b64ab443c247f08a13e454f3d6ef2a187173i0",
+        "name": "Doginals Island #66",
+        "attributes": {
+            "Name": "Oracle's Eye",
+            "Item": "Artifact"
+        }
+    },
+    {
+        "inscriptionId": "f5b9aef8eb6f4efb6b2f5976ca24a555cf0352e3165a89d1ee43a30122d0887ci0",
+        "name": "Doginals Island #67",
+        "attributes": {
+            "Name": "Dixie",
+            "Animals": "Dik-dik"
+        }
+    },
+    {
+        "inscriptionId": "46fafa60ef1b78a1d5642f53ea6f7201d35e6a728d51711bd83877e03fe8d4b5i0",
+        "name": "Doginals Island #68",
+        "attributes": {
+            "Name": "Burrowy",
+            "Animals": "Mole"
+        }
+    },
+    {
+        "inscriptionId": "1d2820c369e845d4c789937c8be5afd28f097df6fcfba840d2bef7d41d6fde41i0",
+        "name": "Doginals Island #69",
+        "attributes": {
+            "Name": "Gazzy",
+            "Animals": "Magpie"
+        }
+    },
+    {
+        "inscriptionId": "c1d72d6552ee883224f0140a4f95fb4607e11df0756062b2d790c94cefdfbae3i0",
+        "name": "Doginals Island #70",
+        "attributes": {
+            "Name": "Dragon Relic",
+            "Item": "Artifact"
+        }
+    },
+    {
+        "inscriptionId": "6883e77e6c86ad1e09d01d2a59da589c4a9cc3925a2e68b5e47a347a12344483i0",
+        "name": "Doginals Island #71",
+        "attributes": {
+            "Name": "Webber",
+            "Animals": "Golden Silk Orb-Weaver"
+        }
+    },
+    {
+        "inscriptionId": "62db35f66c48098b3137b857ee6e7c48c1407c4b33d9ecea46dd6e432ac88b27i0",
+        "name": "Doginals Island #72",
+        "attributes": {
+            "Name": "Scarface Tom",
+            "Human": "Hitman"
+        }
+    },
+    {
+        "inscriptionId": "342cae73587d09953da1196146a9dbc11430da1eedf9df1421b4edbd84a84689i0",
+        "name": "Doginals Island #73",
+        "attributes": {
+            "Name": "Misty",
+            "Animals": "Marmoset"
+        }
+    },
+    {
+        "inscriptionId": "d046bb6edc013b1bb08576adb88b8e7f19612070a633c662dbcfedc0e050c513i0",
+        "name": "Doginals Island #74",
+        "attributes": {
+            "Name": "Nora Quinn",
+            "Human": "Anthropologist"
+        }
+    },
+    {
+        "inscriptionId": "562b3161662b4939fb1033b925da603b409d5344787e6a8fc0b9545369e5c815i0",
+        "name": "Doginals Island #75",
+        "attributes": {
+            "Name": "Hummy",
+            "Animals": "Hummingbird"
+        }
+    },
+    {
+        "inscriptionId": "10203cc711b37b16d95443eae4c9c25d41598b00d8df44f16a03113ed2bddb34i0",
+        "name": "Doginals Island #76",
+        "attributes": {
+            "Name": "Scorpy",
+            "Animals": "Scorpion"
+        }
+    },
+    {
+        "inscriptionId": "01242632aa37a4ab729b6c9625c7336567e8b1e4bc621727a2491f5879c99105i0",
+        "name": "Doginals Island #77",
+        "attributes": {
+            "Name": "Jumper",
+            "Animals": "Grasshopper"
+        }
+    },
+    {
+        "inscriptionId": "02eedab6d11f2a751a7d7ba91f93f3261527328ae298930423e638c5c937a60fi0",
+        "name": "Doginals Island #78",
+        "attributes": {
+            "Name": "Yara",
+            "Human": "Indigenous"
+        }
+    },
+    {
+        "inscriptionId": "e74d668f8d9018b9f6f10e274b49eaf9ad60b10779c0c17647421e74ecf21d79i0",
+        "name": "Doginals Island #79",
+        "attributes": {
+            "Name": "Falky",
+            "Animals": "Falcon"
+        }
+    },
+    {
+        "inscriptionId": "3ee162fd04d420befb7706741282f1eb999b6f8bc4ffff985647114277ea4a13i0",
+        "name": "Doginals Island #80",
+        "attributes": {
+            "Name": "Pelly",
+            "Animals": "Pelican"
+        }
+    },
+    {
+        "inscriptionId": "8587d8e6602b5cf222ce6de73e17928dcede84f2ac1bca3b9623fe0c3e84a547i0",
+        "name": "Doginals Island #81",
+        "attributes": {
+            "Name": "Stripy",
+            "Animals": "Bongo"
+        }
+    },
+    {
+        "inscriptionId": "ebed93ee0b416367128a6926540309c361ce8b3129c195e6903e52eeefb3ecafi0",
+        "name": "Doginals Island #82",
+        "attributes": {
+            "Name": "Patchy",
+            "Animals": "Patas Monkey"
+        }
+    },
+    {
+        "inscriptionId": "d3298209b8e3f242131c4128333d8132f52d9b6efbdc1d0b0f110d1379321137i0",
+        "name": "Doginals Island #83",
+        "attributes": {
+            "Name": "Gooey",
+            "Animals": "Slug"
+        }
+    },
+    {
+        "inscriptionId": "061ccee7f5b22374da278d24954abeb8b61b68dc5e4c8a3eca1f13b3926e85f0i0",
+        "name": "Doginals Island #84",
+        "attributes": {
+            "Name": "Hally",
+            "Animals": "Hornbill"
+        }
+    },
+    {
+        "inscriptionId": "d26c7ca2efaa02fd6d6191f174f715d5f00902da0a27fc97102290bccfc20088i0",
+        "name": "Doginals Island #85",
+        "attributes": {
+            "Name": "Bucky",
+            "Animals": "Bushbuck"
+        }
+    },
+    {
+        "inscriptionId": "d1cdf6a4767b4e36c85db27d6f0e3acb205e07dc3678a5bb2a968ed180e59535i0",
+        "name": "Doginals Island #86",
+        "attributes": {
+            "Name": "Tiggy",
+            "Animals": "Tiger"
+        }
+    },
+    {
+        "inscriptionId": "1f91301e337bb9f19096caa5ade18c1602d2e31a47946ee07d98af07d36ff1bci0",
+        "name": "Doginals Island #87",
+        "attributes": {
+            "Name": "Echidny",
+            "Animals": "Echidna"
+        }
+    },
+    {
+        "inscriptionId": "f6fba521551cfb2731a8197a6f213cc038e826838c9ceb33d98351b9ef0840c0i0",
+        "name": "Doginals Island #88",
+        "attributes": {
+            "Name": "Tapeti",
+            "Animals": "Sylvilagus brasiliensis"
+        }
+    },
+    {
+        "inscriptionId": "6fc39de770dcc52300edc04458f5258274b81e15b81ff9b16c37b8aa4c908037i0",
+        "name": "Doginals Island #89",
+        "attributes": {
+            "Name": "Divey",
+            "Animals": "Kingfisher"
+        }
+    },
+    {
+        "inscriptionId": "9274a430fd50e4f8ba4f4e8556c97e20098321c164c8f26fa89c83252d29970ai0",
+        "name": "Doginals Island #90",
+        "attributes": {
+            "Name": "Ancestors' Chalice",
+            "Item": "Artifact"
+        }
+    },
+    {
+        "inscriptionId": "b782c295606d977fdc3677afcca2fe9924ac817524520352bde36766b620801di0",
+        "name": "Doginals Island #91",
+        "attributes": {
+            "Name": "Brighty",
+            "Animals": "Parakeet"
+        }
+    },
+    {
+        "inscriptionId": "678b395e553465b03e1ecdb4516efd787553553b90a528936c1809f838e631b8i0",
+        "name": "Doginals Island #92",
+        "attributes": {
+            "Name": "Stingy",
+            "Animals": "Wasp"
+        }
+    },
+    {
+        "inscriptionId": "3f2ee07c46f98aeef1c7d0a0cc056d38e7e0e88cd1ba317669824aeaa36178b2i0",
+        "name": "Doginals Island #93",
+        "attributes": {
+            "Name": "Sarah Goldwing",
+            "Human": "Archaeologist"
+        }
+    },
+    {
+        "inscriptionId": "71ae118eba81c47acfb8225956b0d0a4fc74b8d5168c1f04a5f04e271661d0c6i0",
+        "name": "Doginals Island #94",
+        "attributes": {
+            "Name": "Croaky",
+            "Animals": "Tree Frog"
+        }
+    },
+    {
+        "inscriptionId": "3ff5673248d7664dba7124207ab27fd4b9bd24855fbaccc0b8daba8d2bcfb671i0",
+        "name": "Doginals Island #95",
+        "attributes": {
+            "Name": "Biter",
+            "Animals": "Bullet Ant"
+        }
+    },
+    {
+        "inscriptionId": "e9edd78fea4e9c02b90e3d00986b9a2520afabf322591bba397d5b226659ebc5i0",
+        "name": "Doginals Island #96",
+        "attributes": {
+            "Name": "Ceremonial Mask",
+            "Item": "Artifact"
+        }
+    },
+    {
+        "inscriptionId": "10112e609515231cde22dc9e3db9b2845c08bd88e34c650050e2af2847281ed2i0",
+        "name": "Doginals Island #97",
+        "attributes": {
+            "Name": "Ancient Spellbook",
+            "Item": "Artifact"
+        }
+    },
+    {
+        "inscriptionId": "e9e5ee6655424b46e476f2233ffb5b350e25baa2bd7ccd92d52128b1ce0be3dei0",
+        "name": "Doginals Island #98",
+        "attributes": {
+            "Name": "Fluffy",
+            "Animals": "Red Panda"
+        }
+    },
+    {
+        "inscriptionId": "86546edf606929b34f476278b09c4cf3411c3636fe667124720d784c8e4bebdai0",
+        "name": "Doginals Island #99",
+        "attributes": {
+            "Name": "Hoofy",
+            "Animals": "Okapi"
+        }
+    },
+    {
+        "inscriptionId": "fb22b10e0e86a7a0c00a65b9818001d0ba00a0d1ce5b9d150d21cdb4600f6481i0",
+        "name": "Doginals Island #100",
+        "attributes": {
+            "Name": "Platy",
+            "Animals": "Platypus"
+        }
+    },
+    {
+        "inscriptionId": "3a594ffa8e3f91ef885e608b1f60b28756e73bb59ac2cd7a3101b9002aa810dai0",
+        "name": "Doginals Island #101",
+        "attributes": {
+            "Name": "Oaky",
+            "Animals": "Okapi"
+        }
+    },
+    {
+        "inscriptionId": "d272dd3630c9e7e2de0a27470cb85fc09d2d7faa3aa073202d0e3a6fb2160eb4i0",
+        "name": "Doginals Island #102",
+        "attributes": {
+            "Name": "Darter",
+            "Animals": "Archerfish"
+        }
+    },
+    {
+        "inscriptionId": "818a0b45f37fc8de5befe6d03ae562d689c78ac729744f65e1b964ba9d0aba90i0",
+        "name": "Doginals Island #103",
+        "attributes": {
+            "Name": "Kingy",
+            "Animals": "Kingfisher"
+        }
+    },
+    {
+        "inscriptionId": "c5d07ffe274ace04ab2126e2a2acd6ce0b8ff8ec58cb7c16858dcfc7ab528685i0",
+        "name": "Doginals Island #104",
+        "attributes": {
+            "Name": "Sage's Staff",
+            "Item": "Artifact"
+        }
+    },
+    {
+        "inscriptionId": "765a8626d535566735f5e42126029e86720455d401d07b01be388b16a6e0ecd9i0",
+        "name": "Doginals Island #105",
+        "attributes": {
+            "Name": "Gogo",
+            "Animals": "Gorilla"
+        }
+    },
+    {
+        "inscriptionId": "b182d22d35b0a967c8f896853d9ba27e16a10af1b3dbb8fdd9bd41efcdbc23e5i0",
+        "name": "Doginals Island #106",
+        "attributes": {
+            "Name": "Leo",
+            "Animals": "Lion"
+        }
+    },
+    {
+        "inscriptionId": "40f2fac07498e61113c358e800cde970674c04a15741b58d61ae76316515ec4ai0",
+        "name": "Doginals Island #107",
+        "attributes": {
+            "Name": "Zebby",
+            "Animals": "Zebra"
+        }
+    },
+    {
+        "inscriptionId": "8e9148dc4b6ba087a3738de3767d12df39beef6a5d160ddf8514ad428441c623i0",
+        "name": "Doginals Island #108",
+        "attributes": {
+            "Name": "Prof. Marcus Flint",
+            "Human": "Researcher"
+        }
+    },
+    {
+        "inscriptionId": "44792cbb9b0ff8281c0fd5128d84a40b78732e1e042deae010a77fdb6bf2ace6i0",
+        "name": "Doginals Island #109",
+        "attributes": {
+            "Name": "Flymo",
+            "Animals": "Flying Lemur"
+        }
+    },
+    {
+        "inscriptionId": "3f1bb2921f7abecc163231caf3f4b2163d40a160281864348b791b1bc552cb6di0",
+        "name": "Doginals Island #110",
+        "attributes": {
+            "Name": "Zorro",
+            "Animals": "Lycalopex vetulus"
+        }
+    },
+    {
+        "inscriptionId": "25a61812ce0afbe81784264827b0f3a5b836121f1f00a95be24ba8d99927cad1i0",
+        "name": "Doginals Island #111",
+        "attributes": {
+            "Name": "Buzzy",
+            "Animals": "Beetle"
+        }
+    },
+    {
+        "inscriptionId": "e1c24445034871149a1bff9eeb113cb953a342c186a136f8428eaf5f84821343i0",
+        "name": "Doginals Island #112",
+        "attributes": {
+            "Name": "Cheety",
+            "Animals": "Cheetah"
+        }
+    },
+    {
+        "inscriptionId": "37cc52df35c3f2d67795ffe25dedafa03258b19e8e3fb419099de83168767f2di0",
+        "name": "Doginals Island #113",
+        "attributes": {
+            "Name": "Sucker",
+            "Animals": "Leech"
+        }
+    },
+    {
+        "inscriptionId": "10ef91c46b981b7e24367042b1c65cd81c6e99a18f4c810aec87b3cd589085c0i0",
+        "name": "Doginals Island #114",
+        "attributes": {
+            "Name": "Luna",
+            "Animals": "Wolf"
+        }
+    },
+    {
+        "inscriptionId": "88c4813f59dce813e3738f5778b7ec035fa607645633e50372643463d90e3ac9i0",
+        "name": "Doginals Island #115",
+        "attributes": {
+            "Name": "Bo",
+            "Animals": "Boa Constrictor"
+        }
+    },
+    {
+        "inscriptionId": "f61c12f9321f23e77d6b517bab0de21c1b539c0272aef4a42178c55470a029d4i0",
+        "name": "Doginals Island #116",
+        "attributes": {
+            "Name": "Bato",
+            "Human": "Indigenous"
+        }
+    },
+    {
+        "inscriptionId": "8c1142fd3d003e91b6c3a7fc4017a0c2d4f3ae28c7dacf836a8b5d36dfe88dbbi0",
+        "name": "Doginals Island #117",
+        "attributes": {
+            "Name": "Leapo",
+            "Animals": "Tree Kangaroo"
+        }
+    },
+    {
+        "inscriptionId": "f6444068e701c67d376d44ed7e504d1b7ebabd425685bae405bc1651a4b7ecbbi0",
+        "name": "Doginals Island #118",
+        "attributes": {
+            "Name": "Dimensional Portal Key",
+            "Item": "Key"
+        }
+    },
+    {
+        "inscriptionId": "eaa1680d712409a64c72d14aa045937ccea408e475268ebd39ee2f64e9a1b936i0",
+        "name": "Doginals Island #119",
+        "attributes": {
+            "Name": "Libby",
+            "Animals": "Dragonfly"
+        }
+    },
+    {
+        "inscriptionId": "d3f4cbd173744be28bbd5ed3034acfeac3da1dc9adcdbdb300316821c327a288i0",
+        "name": "Doginals Island #120",
+        "attributes": {
+            "Name": "Fino",
+            "Human": "Indigenous"
+        }
+    },
+    {
+        "inscriptionId": "2a49abc7abdf1f67b4907721abd0a92c497cb0409747c022bc0183895ac9f3edi0",
+        "name": "Doginals Island #121",
+        "attributes": {
+            "Name": "Tumo",
+            "Human": "Indigenous"
+        }
+    },
+    {
+        "inscriptionId": "9444b42fe98308d78efe7e82a5342712348ca8e03f0e227cd5fcd3426f05a671i0",
+        "name": "Doginals Island #122",
+        "attributes": {
+            "Name": "Tika",
+            "Human": "Indigenous"
+        }
+    },
+    {
+        "inscriptionId": "dfbe6457a18908a9599c02b48735ada98caa6c898f31b6af434f80b8add103f0i0",
+        "name": "Doginals Island #123",
+        "attributes": {
+            "Name": "Juma",
+            "Human": "Indigenous"
+        }
+    },
+    {
+        "inscriptionId": "3e0cc0c847ba5e4588553b4c4f702642c88248bd8e3138711be0ddbf1934437fi0",
+        "name": "Doginals Island #124",
+        "attributes": {
+            "Name": "Swarmer",
+            "Animals": "Locust"
+        }
+    },
+    {
+        "inscriptionId": "68cad6d129c8dc019ec8a1a7b12dd4b819f59b2d188293bf13a84c7aad55f046i0",
+        "name": "Doginals Island #125",
+        "attributes": {
+            "Name": "Time Pendant",
+            "Item": "Jewelry"
+        }
+    },
+    {
+        "inscriptionId": "fdb0e4ef14ca61f9adbfc3d5772905fe746410ac1daaea17b718aaa2f7975340i0",
+        "name": "Doginals Island #126",
+        "attributes": {
+            "Name": "Zorry",
+            "Animals": "Zorilla"
+        }
+    },
+    {
+        "inscriptionId": "d32b90601a7ac3b05ddb38485cea7ec8f8995256ae96b19677d78e46c6724b82i0",
+        "name": "Doginals Island #127",
+        "attributes": {
+            "Name": "Bari",
+            "Human": "Indigenous"
+        }
+    },
+    {
+        "inscriptionId": "215519c7a96fef43176c07ecfb5606d7a2a6110f914c056c98fa8a425b9ffdafi0",
+        "name": "Doginals Island #128",
+        "attributes": {
+            "Name": "Bubbler",
+            "Animals": "Bullfrog"
+        }
+    },
+    {
+        "inscriptionId": "18664b71a3c4e0c86e1808a82dafa39d64a5b3584fc267e8f4cacc860a84028fi0",
+        "name": "Doginals Island #129",
+        "attributes": {
+            "Name": "Duiky",
+            "Animals": "Duiker"
+        }
+    },
+    {
+        "inscriptionId": "7a2b3932332afd00abb97f17f28c87b39a85da7c1668179ef6fe233e3fc6ec03i0",
+        "name": "Doginals Island #130",
+        "attributes": {
+            "Name": "Chimpy",
+            "Animals": "Chimpanzee"
+        }
+    },
+    {
+        "inscriptionId": "f8344737e315f995f38a8083b80698c8b33814faa710c3be75e4fa60b37cc56fi0",
+        "name": "Doginals Island #131",
+        "attributes": {
+            "Name": "Suma",
+            "Human": "Indigenous"
+        }
+    },
+    {
+        "inscriptionId": "309a2263cc5f5aa03b1219ec46076509e5880bd8013965809403c7feda4f3ef3i0",
+        "name": "Doginals Island #132",
+        "attributes": {
+            "Name": "Beetly",
+            "Animals": "Rhinoceros Beetle"
+        }
+    },
+    {
+        "inscriptionId": "5dca02c749ac7c713c9279a63f221adf7e4b90dde481133adea7d4de566d9672i0",
+        "name": "Doginals Island #133",
+        "attributes": {
+            "Name": "Nira",
+            "Human": "Indigenous"
+        }
+    },
+    {
+        "inscriptionId": "f1414cabd78b2401aebd9767f90fa6aeb8ade61e0a487b07399bc0838fd2aed6i0",
+        "name": "Doginals Island #134",
+        "attributes": {
+            "Name": "Civvy",
+            "Animals": "Owl"
+        }
+    },
+    {
+        "inscriptionId": "96842efd67f2e4ea764a91b2798a94d61c4996cf0706c7bb188f02746a2315a7i0",
+        "name": "Doginals Island #135",
+        "attributes": {
+            "Name": "Hana",
+            "Human": "Indigenous"
+        }
+    },
+    {
+        "inscriptionId": "26aa5da8e69a19fc3d39e0fc41b4cb81b8b6ef2843572fdcef2fcc05891a2fdci0",
+        "name": "Doginals Island #136",
+        "attributes": {
+            "Name": "Timmy",
+            "Animals": "Termite"
+        }
+    },
+    {
+        "inscriptionId": "30d1b70d211f2c2c91e2f3b0e349e7cb36c364877e8529981b8c5f5c17ab78aai0",
+        "name": "Doginals Island #137",
+        "attributes": {
+            "Name": "Cassowary",
+            "Animals": "Casuarius"
+        }
+    },
+    {
+        "inscriptionId": "98daefff273aaaff63e0952934d9f8215b00d2aa3bc2186dd47f5ddd1df11547i0",
+        "name": "Doginals Island #138",
+        "attributes": {
+            "Name": "Woolly",
+            "Animals": "Woolly Monkey"
+        }
+    },
+    {
+        "inscriptionId": "53f9353bb96a88e1e0f3583ff48e11e8526dc745d1b6b9e1428dbe3e79f84b72i0",
+        "name": "Doginals Island #139",
+        "attributes": {
+            "Name": "Ibby",
+            "Animals": "Ibis"
+        }
+    },
+    {
+        "inscriptionId": "027e50ad1159abf846cf314bd6896dbc4d409948aa8f746329ffd79a18e9d844i0",
+        "name": "Doginals Island #140",
+        "attributes": {
+            "Name": "Womby",
+            "Animals": "Wombat"
+        }
+    },
+    {
+        "inscriptionId": "9d0552e5286eb242d1446de5da22bd1255360f80817220e11203d1be3632fa23i0",
+        "name": "Doginals Island #141",
+        "attributes": {
+            "Name": "Slowly",
+            "Animals": "Sloth"
+        }
+    },
+    {
+        "inscriptionId": "68cd68c535e5783847c6899389994eed49154122a381ced083d4074ca1bcadaci0",
+        "name": "Doginals Island #142",
+        "attributes": {
+            "Name": "Cryptic Shiba Inu Drive",
+            "Item": "Ancient Tech"
+        }
+    },
+    {
+        "inscriptionId": "13aaae2034ecd1c4b6ee4ba8854c78bec179a8d246864cc57e0cafc68f127339i0",
+        "name": "Doginals Island #143",
+        "attributes": {
+            "Name": "Fruity",
+            "Animals": "Fruit Bat"
+        }
+    },
+    {
+        "inscriptionId": "61b8900c93aa1b4509aa54983172d237941ae919ef64d8431c75c5f7cf902180i0",
+        "name": "Doginals Island #144",
+        "attributes": {
+            "Name": "Flamy",
+            "Animals": "Flamingo"
+        }
+    },
+    {
+        "inscriptionId": "725ae48428e6dbb959e972e9c086309064c79cb9c8e94b55b2274508af4fd73ai0",
+        "name": "Doginals Island #145",
+        "attributes": {
+            "Name": "Tribal Artifacts",
+            "Item": "Artifact"
+        }
+    },
+    {
+        "inscriptionId": "17661640d80366c74b553feabb992d9c2c99b89bc159d2f6a464c3caa697f154i0",
+        "name": "Doginals Island #146",
+        "attributes": {
+            "Name": "Snappy",
+            "Animals": "Alligator"
+        }
+    },
+    {
+        "inscriptionId": "091b8402882bcce6335c115d7bc56880e3b70e778d8150fb93e6de7899ac2210i0",
+        "name": "Doginals Island #147",
+        "attributes": {
+            "Name": "Lizzy",
+            "Animals": "Lizard"
+        }
+    },
+    {
+        "inscriptionId": "380ea76e27bff17f5ce426d7620afc15f277b32d08acd75f8bade3dd7a4d3cefi0",
+        "name": "Doginals Island #148",
+        "attributes": {
+            "Name": "Snatcher",
+            "Animals": "Osprey"
+        }
+    },
+    {
+        "inscriptionId": "ae3ee3a59d57475a7dabc2a2297b3baf76c93f8aa9ee03e9b9bec8c447ac2260i0",
+        "name": "Doginals Island #149",
+        "attributes": {
+            "Name": "Patty",
+            "Animals": "Panther"
+        }
+    },
+    {
+        "inscriptionId": "f2fcb93fd0c5e9cab319846346c6a93bc9a0586318be43b2105a1cefedeb80e6i0",
+        "name": "Doginals Island #150",
+        "attributes": {
+            "Name": "Stone Tablets with Engravings",
+            "Item": "Artifact"
+        }
+    },
+    {
+        "inscriptionId": "085bab8076c847d2a68cd13f18c32fedd388fc7b16ba186451d9ac011616ecb0i0",
+        "name": "Doginals Island #151",
+        "attributes": {
+            "Name": "Sissy",
+            "Animals": "Snake"
+        }
+    },
+    {
+        "inscriptionId": "83ea01adae74ab2b17194f3920b98de3aaec1cc7530e17cf100207a7ae85a98ei0",
+        "name": "Doginals Island #152",
+        "attributes": {
+            "Name": "Mudhopper",
+            "Animals": "Mudskipper"
+        }
+    },
+    {
+        "inscriptionId": "4c8b8add23df689c7060766f3438f9478c54e48381d8af99b128b9b23b0a343ai0",
+        "name": "Doginals Island #153",
+        "attributes": {
+            "Name": "Maya Statuette",
+            "Item": "Artifact"
+        }
+    },
+    {
+        "inscriptionId": "92a6d6b39ba38bade11064490bc15c46ef7084329f15dbb56b9f2bdbcff90442i0",
+        "name": "Doginals Island #154",
+        "attributes": {
+            "Name": "Shelly",
+            "Animals": "Tortoise"
+        }
+    },
+    {
+        "inscriptionId": "669b4d1b1d4fef1bb6b6f692ffe57f326823172746448e745d1a70b987a97e02i0",
+        "name": "Doginals Island #155",
+        "attributes": {
+            "Name": "Camo",
+            "Animals": "Chameleon"
+        }
+    },
+    {
+        "inscriptionId": "60cd117a7724e8dbfe51ae6dfac5cd81f07b22ac6cc37250fb43027bffaaff00i0",
+        "name": "Doginals Island #156",
+        "attributes": {
+            "Name": "Mia Stone",
+            "Human": "Botanist"
+        }
+    },
+    {
+        "inscriptionId": "a58f9a4406b8174a30f0cb27f6ac8063ee897292272393091c5ca591ad98ba12i0",
+        "name": "Doginals Island #157",
+        "attributes": {
+            "Name": "Grilly",
+            "Animals": "Cricket"
+        }
+    },
+    {
+        "inscriptionId": "a82aef2e5624cf495016a435182746f4f58fded7969a325a34e898be9886a3a0i0",
+        "name": "Doginals Island #158",
+        "attributes": {
+            "Name": "Engraved Inca Dagger",
+            "Item": "Artifact"
+        }
+    },
+    {
+        "inscriptionId": "aeb26802724d17a6c22490c0fa2ac6c15c78983415b398d5de636afad6c36683i0",
+        "name": "Doginals Island #159",
+        "attributes": {
+            "Name": "Pandy",
+            "Animals": "Panda"
+        }
+    },
+    {
+        "inscriptionId": "7dee60163e5582a2d46b86d6d695af1bf1ddb08ca047d54831ae2138353508d7i0",
+        "name": "Doginals Island #160",
+        "attributes": {
+            "Name": "Bushmaster",
+            "Animals": "Lachesis muta"
+        }
+    },
+    {
+        "inscriptionId": "c833a73a20e98aa1484cc5ef61c7ffa7550a3b3cd264f7fbb6501e2569969233i0",
+        "name": "Doginals Island #161",
+        "attributes": {
+            "Name": "Skimmer",
+            "Animals": "Water Strider"
+        }
+    },
+    {
+        "inscriptionId": "cb41953ad8c7cd19efc268668acdf1a68cd70b6dbeb15d633ae1d62a32ed5964i0",
+        "name": "Doginals Island #162",
+        "attributes": {
+            "Name": "Luka",
+            "Human": "Indigenous"
+        }
+    },
+    {
+        "inscriptionId": "bf90887b9642628d4bade21a8608b8e99d7fcda48925c6cad6e9916e7d742febi0",
+        "name": "Doginals Island #163",
+        "attributes": {
+            "Name": "Basky",
+            "Animals": "Basilisk"
+        }
+    },
+    {
+        "inscriptionId": "c0b53b9f9ae658f06e017c95b666b41c0b959175626ae6a6c64a1da126e9da18i0",
+        "name": "Doginals Island #164",
+        "attributes": {
+            "Name": "Koda",
+            "Animals": "Bear"
+        }
+    },
+    {
+        "inscriptionId": "377b599798af99b6b60868a0870084ad57ddd399b2da8a290b1931c25c4dec30i0",
+        "name": "Doginals Island #165",
+        "attributes": {
+            "Name": "Hunter Knox",
+            "Human": "Hunter"
+        }
+    },
+    {
+        "inscriptionId": "1ed6f2b546bc1572c5ba82ef04cd2219fedf8e73d0c4a998b7f1865c95a33f02i0",
+        "name": "Doginals Island #166",
+        "attributes": {
+            "Name": "Yumi",
+            "Human": "Indigenous"
+        }
+    },
+    {
+        "inscriptionId": "e2533d80592d2858037c23ea5516acae009e901c40c2c06d70cccf8bbb250290i0",
+        "name": "Doginals Island #167",
+        "attributes": {
+            "Name": "Kana",
+            "Human": "Indigenous"
+        }
+    },
+    {
+        "inscriptionId": "ff8296f1793385334a85bcb2767b8b02ff3f36115bfbc9fb6db3faa9a0f6689ai0",
+        "name": "Doginals Island #168",
+        "attributes": {
+            "Name": "Langur",
+            "Animals": "Presbytis"
+        }
+    },
+    {
+        "inscriptionId": "625a4fb114a3a1f1a44bdec9363adce23e781b1c148d1fe5c9e6d453aee72378i0",
+        "name": "Doginals Island #169",
+        "attributes": {
+            "Name": "Vana",
+            "Human": "Indigenous"
+        }
+    },
+    {
+        "inscriptionId": "cff5567a077d6195c4995e79a561cdee165a539b65b9e516b54d5d84a9a1bcf1i0",
+        "name": "Doginals Island #170",
+        "attributes": {
+            "Name": "Margy",
+            "Animals": "Margay"
+        }
+    },
+    {
+        "inscriptionId": "aaea4f5adc90aabc00ffca0d227a212d5db5b0e0ae4294e546aff1e82796d304i0",
+        "name": "Doginals Island #171",
+        "attributes": {
+            "Name": "Nima",
+            "Human": "Indigenous"
+        }
+    },
+    {
+        "inscriptionId": "d5850bbbbad37dc6185c18e4214ed6cb4c81510f459f097c6b79769682474ee2i0",
+        "name": "Doginals Island #172",
+        "attributes": {
+            "Name": "Rano",
+            "Human": "Indigenous"
+        }
+    },
+    {
+        "inscriptionId": "71ae118eba81c47acfb8225956b0d0a4fc74b8d5168c1f04a5f04e271661d0c6i0",
+        "name": "Doginals Island #173",
+        "attributes": {
+            "Name": "Flicker",
+            "Animals": "Firefly"
+        }
+    },
+    {
+        "inscriptionId": "12b0672cf7064c8d9aa5dd7b225cc03b01c8942462ef8243f503b2e3d38dfe01i0",
+        "name": "Doginals Island #174",
+        "attributes": {
+            "Name": "Eternity Medallion",
+            "Item": "Jewelry"
+        }
+    },
+    {
+        "inscriptionId": "f85a6aa3d804d6aca651b651c6513b24d6fbc2e1a2b1f3b54558deedabe19162i0",
+        "name": "Doginals Island #175",
+        "attributes": {
+            "Name": "Anny",
+            "Animals": "Anaconda"
+        }
+    },
+    {
+        "inscriptionId": "e517a93825397556c759b4d3aea1427896a52d9def3bc752e665763d16e778eai0",
+        "name": "Doginals Island #176",
+        "attributes": {
+            "Name": "Spiky",
+            "Animals": "Porcupine"
+        }
+    },
+    {
+        "inscriptionId": "c9e16f8905dbbe3e39454ddda5feb8a6b2df0dd0a2490ac37545ed20e9ceef5fi0",
+        "name": "Doginals Island #177",
+        "attributes": {
+            "Name": "Scaley",
+            "Animals": "Iguana"
+        }
+    },
+    {
+        "inscriptionId": "19b01204309568f7ac86b242a25c2049478bbfbab6256a02d28fa925a73f9559i0",
+        "name": "Doginals Island #178",
+        "attributes": {
+            "Name": "Wally",
+            "Animals": "Wallaby"
+        }
+    },
+    {
+        "inscriptionId": "05f492d1bb4d56dac500c96e89569d3876c19b125d525454bccfbad61f472800i0",
+        "name": "Doginals Island #179",
+        "attributes": {
+            "Name": "Jungle Amulet",
+            "Item": "Artifact"
+        }
+    },
+    {
+        "inscriptionId": "06cdaf199a2fb75245fa45f0282691a569e37ad2f2bf50d7f5e6579707488349i0",
+        "name": "Doginals Island #180",
+        "attributes": {
+            "Name": "Leapard",
+            "Animals": "Leopard Frog"
+        }
+    },
+    {
+        "inscriptionId": "fb22b10e0e86a7a0c00a65b9818001d0ba00a0d1ce5b9d150d21cdb4600f6481i0",
+        "name": "Doginals Island #181",
+        "attributes": {
+            "Name": "Yellow foot",
+            "Animals": "Chelonoidis denticulata"
+        }
+    },
+    {
+        "inscriptionId": "3f3aea952021caa1e7f98a60ea1e482d3c447e22c15a745b09664af4dc0f9b6fi0",
+        "name": "Doginals Island #182",
+        "attributes": {
+            "Name": "Miko",
+            "Human": "Indigenous"
+        }
+    },
+    {
+        "inscriptionId": "735c9dd44a2197437ee2c2aeaa3753a5505b9486dd7ccd787d512ce79378ecc4i0",
+        "name": "Doginals Island #183",
+        "attributes": {
+            "Name": "Jasper Miles",
+            "Human": "Zoologist"
+        }
+    },
+    {
+        "inscriptionId": "b107a85cda4477ca7276dbd6d3d80b0df5ee14def50cfede47455431477efb52i0",
+        "name": "Doginals Island #184",
+        "attributes": {
+            "Name": "Alex Renn",
+            "Human": "Biologist"
+        }
+    },
+    {
+        "inscriptionId": "d4ef200821198ca34c0c4a79179eeef616801cd09b75ac4c3bc6074d8177df1ai0",
+        "name": "Doginals Island #185",
+        "attributes": {
+            "Name": "Fang",
+            "Animals": "Wolf"
+        }
+    },
+    {
+        "inscriptionId": "bd669cb86c6ff8d5b18a28dd91bd4a3f07ae9856e497059a39c8574af69afadai0",
+        "name": "Doginals Island #186",
+        "attributes": {
+            "Name": "Spidey",
+            "Animals": "Spider Monkey"
+        }
+    },
+    {
+        "inscriptionId": "62bfe67f530d019556bf52755756fb04b86c1e75a0226086731f86bec676d34bi0",
+        "name": "Doginals Island #187",
+        "attributes": {
+            "Name": "Polly",
+            "Animals": "Parrot"
+        }
+    },
+    {
+        "inscriptionId": "d2892b2cdd31680fba5b25e6c5256b77e6dd027d7135c3cb18b446a955edc791i0",
+        "name": "Doginals Island #188",
+        "attributes": {
+            "Name": "Peg Leg Pete",
+            "Human": "Mercenary"
+        }
+    },
+    {
+        "inscriptionId": "5241296139d972b0e5e8f181155a441f6c0f8f5f7b23e98a66067e00d3bbc6a9i0",
+        "name": "Doginals Island #189",
+        "attributes": {
+            "Name": "Oni",
+            "Human": "Indigenous"
+        }
+    },
+    {
+        "inscriptionId": "a7bd4cbabea1f638dc23665b45290fe468f9d1299635c979f8b62754b8060757i0",
+        "name": "Doginals Island #190",
+        "attributes": {
+            "Name": "Lani",
+            "Human": "Indigenous"
+        }
+    },
+    {
+        "inscriptionId": "08e8e749e5747f420054ddeed8d30ae67495693851abeceb33a5f14c735e1ea6i0",
+        "name": "Doginals Island #191",
+        "attributes": {
+            "Name": "Suri",
+            "Human": "Indigenous"
+        }
+    },
+    {
+        "inscriptionId": "332ae1b0f18717d71f6665a8f6904eca225d5defb839e57acfd3ddf852cce5c2i0",
+        "name": "Doginals Island #192",
+        "attributes": {
+            "Name": "Nalu",
+            "Human": "Indigenous"
+        }
+    },
+    {
+        "inscriptionId": "3bac8ccf91ba393f50685155a23f51759c5cfc0647a4e7b4e46dd4064acd3bb9i0",
+        "name": "Doginals Island #193",
+        "attributes": {
+            "Name": "Ethan Hawk",
+            "Human": "Adventurer"
+        }
+    },
+    {
+        "inscriptionId": "36134c737c0330b1da288931091a7bdec142eaf69e7fc6c0b1fe0d5a46ae95aai0",
+        "name": "Doginals Island #194",
+        "attributes": {
+            "Name": "Wiggly",
+            "Animals": "Earthworm"
+        }
+    },
+    {
+        "inscriptionId": "ddba1cbd116066967c89ad7a9914316b6061321c6f48958709d4b69a79bb2b02i0",
+        "name": "Doginals Island #195",
+        "attributes": {
+            "Name": "Saja",
+            "Human": "Indigenous"
+        }
+    },
+    {
+        "inscriptionId": "2fa761cfc49e1cec6aa52c79b7c0c2ec74757ac2e072358ff2bb81174d2e8f6di0",
+        "name": "Doginals Island #196",
+        "attributes": {
+            "Name": "Sally",
+            "Animals": "Salamander"
+        }
+    },
+    {
+        "inscriptionId": "d44580d0bc92db2be257b952a7ddde980b651633791226ff85dd6b262e6fe6e0i0",
+        "name": "Doginals Island #197",
+        "attributes": {
+            "Name": "Batty",
+            "Animals": "Bat"
+        }
+    },
+    {
+        "inscriptionId": "3cdcf529e099675e79913a805fbb0268d7d53754a17f4d53c86d3656d06e046ci0",
+        "name": "Doginals Island #198",
+        "attributes": {
+            "Name": "Waku",
+            "Human": "Indigenous"
+        }
+    },
+    {
+        "inscriptionId": "2fd97bb3f1dba1a720df26b67337bab16ffef43b3d1f5a945abb4967417555aci0",
+        "name": "Doginals Island #199",
+        "attributes": {
+            "Name": "Golden Skull of the Mystic",
+            "Item": "Artifact"
+        }
+    },
+    {
+        "inscriptionId": "6b0482acd54df1892d17d6ca36e577df02385e7715941d117bd1b844c7ca1a1di0",
+        "name": "Doginals Island #200",
+        "attributes": {
+            "Name": "Scarby",
+            "Animals": "Scarab Beetle"
+        }
+    },
+    {
+        "inscriptionId": "8bef0e759c9740226dd7bcad4750439cbfe9422132f9258338f45f20acf06c9ai0",
+        "name": "Doginals Island #201",
+        "attributes": {
+            "Name": "Lucy Bright",
+            "Human": "Adventurer"
+        }
+    },
+    {
+        "inscriptionId": "de2ed1bb1c22201e080b20ac7f1ea4afa48287ad507614c6b3abb22be71ca120i0",
+        "name": "Doginals Island #202",
+        "attributes": {
+            "Name": "Toucky",
+            "Animals": "Toucanet"
+        }
+    },
+    {
+        "inscriptionId": "72bb7f548174bb0e03edcf62b835ca5767b5cc6296a23a4855f5245d97faac57i0",
+        "name": "Doginals Island #203",
+        "attributes": {
+            "Name": "Orrie",
+            "Animals": "Orangutan"
+        }
+    },
+    {
+        "inscriptionId": "b16e89e7f68d067e4609bd39a623426afd550c1c238a58045d7a01613091c6bai0",
+        "name": "Doginals Island #204",
+        "attributes": {
+            "Name": "Tamandua",
+            "Animals": "Tamandua"
+        }
+    },
+    {
+        "inscriptionId": "fadbcc341486d49fd08e4cba44f3446d14d1226fbf578cfcc95c5150639197f8i0",
+        "name": "Doginals Island #205",
+        "attributes": {
+            "Name": "Xenarthra",
+            "Animals": "Xenarthra"
+        }
+    },
+    {
+        "inscriptionId": "da807e58d75f9a4cdede2d978c24d2bc14db607bbece03c641bdb48737cd2f10i0",
+        "name": "Doginals Island #206",
+        "attributes": {
+            "Name": "Strutter",
+            "Animals": "Guinea Fowl"
+        }
+    },
+    {
+        "inscriptionId": "c212ea01ad1a4ed119eb8b815dc7b402c42f370e78ec83d4197867d90d17d808i0",
+        "name": "Doginals Island #207",
+        "attributes": {
+            "Name": "Agouti",
+            "Animals": "Dasyprocta"
+        }
+    },
+    {
+        "inscriptionId": "68b1274733b0a3509fda12828c45858231038f9b2d3dda808cd7396849b6e1b8i0",
+        "name": "Doginals Island #208",
+        "attributes": {
+            "Name": "Slick Rick",
+            "Human": "Pilot"
+        }
+    },
+    {
+        "inscriptionId": "26a97bdbdba5dc6755b47be897863dda062b69c87b0ef740085fc72cd64c6200i0",
+        "name": "Doginals Island #209",
+        "attributes": {
+            "Name": "Ollie",
+            "Animals": "Ocelot"
+        }
+    },
+    {
+        "inscriptionId": "b144331d77acd2571e3029329c0fb2eb58b87591690ddc89adb726405354a172i0",
+        "name": "Doginals Island #210",
+        "attributes": {
+            "Name": "Barko",
+            "Animals": "Barking Deer"
+        }
+    },
+    {
+        "inscriptionId": "6097a25cc24ac4e01c19044125eb240709ac0d05d5dfe25e0c42cf56a13ec99di0",
+        "name": "Doginals Island #211",
+        "attributes": {
+            "Name": "Mossy",
+            "Animals": "Sloth Bear"
+        }
+    },
+    {
+        "inscriptionId": "5f5194015610832af044b1abbf0896153c443cdb15b2a0e10ee8446f5e38953ci0",
+        "name": "Doginals Island #212",
+        "attributes": {
+            "Name": "Glidey",
+            "Animals": "Sugar Glider"
+        }
+    },
+    {
+        "inscriptionId": "715f10e0b9609c2fc3127fbaf7a1bfff2d8100cb7476b0a703b91a549e7803d7i0",
+        "name": "Doginals Island #213",
+        "attributes": {
+            "Name": "Uakari",
+            "Animals": "Cacajao"
+        }
+    },
+    {
+        "inscriptionId": "72680ba910a1b9b4ab73abf99259bb9f215339ee7c8036196b44f74943f2b773i0",
+        "name": "Doginals Island #214",
+        "attributes": {
+            "Name": "Zippy",
+            "Animals": "Black Mamba"
+        }
+    },
+    {
+        "inscriptionId": "25f3d48f0287c046c6006dc6f64341397cd06c3ff29e78c33efaabc2b97b319bi0",
+        "name": "Doginals Island #215",
+        "attributes": {
+            "Name": "Elly",
+            "Animals": "Elephant"
+        }
+    },
+    {
+        "inscriptionId": "70ce0e4f129f8cf12b4397c9b48817e35987750d3f11dc609732b0a15767963fi0",
+        "name": "Doginals Island #216",
+        "attributes": {
+            "Name": "Gazer",
+            "Animals": "Tarsier"
+        }
+    },
+    {
+        "inscriptionId": "5ed2a283900d4fb2061c42eb4f4068664998839290c57e270fe20188aae3e3fbi0",
+        "name": "Doginals Island #217",
+        "attributes": {
+            "Name": "Forgotten Warrior's Sword",
+            "Item": "Weapon"
+        }
+    },
+    {
+        "inscriptionId": "ceb27ad2f63b3b149c5c8bd3cbec8c2f2c17760a190c99157ccc4d637f3dc343i0",
+        "name": "Doginals Island #218",
+        "attributes": {
+            "Name": "Dr. Elena Voss",
+            "Human": "Researcher"
+        }
+    },
+    {
+        "inscriptionId": "eabe314a8a379e6527f3c10b815fb1b86a829dca7ed6e466486c4263e8ba393ai0",
+        "name": "Doginals Island #219",
+        "attributes": {
+            "Name": "Pangy",
+            "Animals": "Pangolin"
+        }
+    },
+    {
+        "inscriptionId": "fe80869a0079daa8b235234ff81539bc493af1a6f8ce7fab63d72ff208ae8cf9i0",
+        "name": "Doginals Island #220",
+        "attributes": {
+            "Name": "Ocelot",
+            "Animals": "Leopardus pardalis"
+        }
+    },
+    {
+        "inscriptionId": "12371289e652b5a9245123c0110a0a88e21e9b1bbdec855a0e34724c21e22bd1i0",
+        "name": "Doginals Island #221",
+        "attributes": {
+            "Name": "Flutterby",
+            "Animals": "Morpho Butterfly"
+        }
+    },
+    {
+        "inscriptionId": "bd38dfb150cf36bb271402220634c48a7b46bf7dbf3f34265bd699df8c816123i0",
+        "name": "Doginals Island #222",
+        "attributes": {
+            "Name": "Yappy",
+            "Animals": "Capuchin Monkey"
+        }
+    },
+    {
+        "inscriptionId": "e9edd78fea4e9c02b90e3d00986b9a2520afabf322591bba397d5b226659ebc5i0",
+        "name": "Doginals Island #223",
+        "attributes": {
+            "Name": "Prophecy Scroll",
+            "Item": "Artifact"
+        }
+    },
+    {
+        "inscriptionId": "c7d44bbb3c88c84a4a01efcf0a8e887e1af086e1ad6218ec31f60fad28bfef62i0",
+        "name": "Doginals Island #224",
+        "attributes": {
+            "Name": "Shadow",
+            "Animals": "Wolf"
+        }
+    },
+    {
+        "inscriptionId": "de7a5254c61609d9dd780eb16b1f91ee154b886c72f3d4ec196ca2cf212318c3i0",
+        "name": "Doginals Island #225",
+        "attributes": {
+            "Name": "Quetzy",
+            "Animals": "Quetzal"
+        }
+    },
+    {
+        "inscriptionId": "10ff6c296eacb4540ae1154832772f3f19bd4bd507b03381305aa2ab9f26ebddi0",
+        "name": "Doginals Island #226",
+        "attributes": {
+            "Name": "Victor Fang",
+            "Human": "Hunter"
+        }
+    },
+    {
+        "inscriptionId": "a528f99c0fb9a443ae20e2d518a7e2c4fe142e9842601e2fa4582e3f8f40fcc1i0",
+        "name": "Doginals Island #227",
+        "attributes": {
+            "Name": "Tano",
+            "Human": "Indigenous"
+        }
+    },
+    {
+        "inscriptionId": "4f075f156043b7b86c6a40313a09aad77e9779a494d016eac31e15ef59a88a28i0",
+        "name": "Doginals Island #228",
+        "attributes": {
+            "Name": "Jungle King's Ring",
+            "Item": "Jewelry"
+        }
+    },
+    {
+        "inscriptionId": "24723ecc79a908ea1e735e6e475d3116c803e761d6a5828fbf8ea9650e44a37ci0",
+        "name": "Doginals Island #229",
+        "attributes": {
+            "Name": "Hooty",
+            "Animals": "Jungle Owl"
+        }
+    },
+    {
+        "inscriptionId": "025b1a0dce539d508509bceb0402e7952759f25cc5003fbc3c1d52cd1db60c5ci0",
+        "name": "Doginals Island #230",
+        "attributes": {
+            "Name": "Capitano Blackbeard",
+            "Human": "mercenary"
+        }
+    },
+    {
+        "inscriptionId": "b1918f72f35aca57563ba88d4194539e6c43441d38722222e2372737c43512e5i0",
+        "name": "Doginals Island #231",
+        "attributes": {
+            "Name": "Dynamite Dave",
+            "Human": "gold-digger"
+        }
+    },
+    {
+        "inscriptionId": "e87ddd39e96f7499919f059ce1bfe810a7caac947fbf03740dcc828aa819972di0",
+        "name": "Doginals Island #232",
+        "attributes": {
+            "Name": "Wira",
+            "Human": "Indigenous"
+        }
+    },
+    {
+        "inscriptionId": "6537f1ee184a17112a8bb9cbc9a75bc240e2f12d554c4af47df0f1a75a3f639ai0",
+        "name": "Doginals Island #233",
+        "attributes": {
+            "Name": "Loomer",
+            "Animals": "Harpy Eagle"
+        }
+    },
+    {
+        "inscriptionId": "e4a26f34c12cbac38d410c3f2f6aed954eff35542c073e5d68635f84809bf3bei0",
+        "name": "Doginals Island #234",
+        "attributes": {
+            "Name": "Anty",
+            "Animals": "Ant"
+        }
+    },
+    {
+        "inscriptionId": "e19f5cbd6eda9bb469e6ddb2fa3b87831c90c2a01bb83ab578ef5e6fec85d101i0",
+        "name": "Doginals Island #235",
+        "attributes": {
+            "Name": "Chase Redwood",
+            "Human": "poacher"
+        }
+    },
+    {
+        "inscriptionId": "fb154ad4916bdb2b7a4996f951d1f38788ed4e1f279c633dec1580419a8c7ee0i0",
+        "name": "Doginals Island #236",
+        "attributes": {
+            "Name": "Ringy",
+            "Animals": "Ring-tailed Lemur"
+        }
+    },
+    {
+        "inscriptionId": "6a36de9f2afef30915837baae6b2c4951b2309f2182c482cf44def1f93aa0b02i0",
+        "name": "Doginals Island #237",
+        "attributes": {
+            "Name": "Minor Treasure",
+            "Item": "Treasure"
+        }
+    },
+    {
+        "inscriptionId": "efd38fd76287c2851936d5e5795f0d4af4d8d7f65b8ebb0918d8a381bd2bba45i0",
+        "name": "Doginals Island #238",
+        "attributes": {
+            "Name": "Bark",
+            "Animals": "shiba-inu"
+        }
+    },
+    {
+        "inscriptionId": "71282bd402947f7f0fec290496330af44aa155075589a799e9e186f10b3c209ci0",
+        "name": "Doginals Island #239",
+        "attributes": {
+            "Name": "Zezzè",
+            "Animals": "Tse-tse"
+        }
+    },
+    {
+        "inscriptionId": "877c45cf7d4a148631d0cf7ac6b26f32fa4f680133d0cb522adb26537513d210i0",
+        "name": "Doginals Island #240",
+        "attributes": {
+            "Name": "Squeaky",
+            "Animals": "Mouse Lemur"
+        }
+    },
+    {
+        "inscriptionId": "bebe350b23b1c7b28acef5c184007dda018d071ab42707c1fe9fe58389966cf5i0",
+        "name": "Doginals Island #241",
+        "attributes": {
+            "Name": "Yako",
+            "Human": "Indigenous"
+        }
+    },
+    {
+        "inscriptionId": "0a8318762ee74bb3fef67613eb8bf1e74b625bae89f152fd9fd377de40c08cd7i0",
+        "name": "Doginals Island #242",
+        "attributes": {
+            "Name": "Hidden Emeralds",
+            "Item": "Gemstone"
+        }
+    },
+    {
+        "inscriptionId": "4e51e30e3f0deee808a5dbee33a4511eccc16c8942a7aa5fb66d280af4827b90i0",
+        "name": "Doginals Island #243",
+        "attributes": {
+            "Name": "Gecky",
+            "Animals": "Gecko"
+        }
+    },
+    {
+        "inscriptionId": "3a80438490b23f7248428adb0f567940676561cd80b49b0c7e67ceefba36fffai0",
+        "name": "Doginals Island #244",
+        "attributes": {
+            "Name": "Ratty",
+            "Animals": "Giant Jungle Rat"
+        }
+    },
+    {
+        "inscriptionId": "66d7503e5e3bbcff91f24728d96312a37c606fb928467eb2d9dcbbfc0a7af502i0",
+        "name": "Doginals Island #245",
+        "attributes": {
+            "Name": "Empy",
+            "Animals": "Emperor Tamarin"
+        }
+    },
+    {
+        "inscriptionId": "6549eda80a7c9f47825c2b42027c369a085d7bdd5891ff7a53850561cc63932ei0",
+        "name": "Doginals Island #246",
+        "attributes": {
+            "Name": "Froggy",
+            "Animals": "Frog"
+        }
+    },
+    {
+        "inscriptionId": "81d874ce3534ed10cc5b78108aaf66ec59755d3c6fe71c2eab684a5f28d45593i0",
+        "name": "Doginals Island #247",
+        "attributes": {
+            "Name": "Screecher",
+            "Animals": "Red Howler Monkey"
+        }
+    },
+    {
+        "inscriptionId": "733496b2bc27a48744529d8f7e7091b43ab145ee919d2b43dd990d3af0ca1acci0",
+        "name": "Doginals Island #248",
+        "attributes": {
+            "Name": "Sniffy",
+            "Animals": "Coati"
+        }
+    },
+    {
+        "inscriptionId": "106070ed4734fc7b106fd5561b5222be49b596129447a9fcc99dbd478e29d3e1i0",
+        "name": "Doginals Island #249",
+        "attributes": {
+            "Name": "Paddler",
+            "Animals": "Beaver"
+        }
+    },
+    {
+        "inscriptionId": "3a52f1287554d3504f256f1ebcf26862d38b204ad5f2cdfdfad19b99bdd8d65di0",
+        "name": "Doginals Island #250",
+        "attributes": {
+            "Name": "Armo",
+            "Animals": "Armadillo"
+        }
+    },
+    {
+        "inscriptionId": "5c8d085ee64890a26ee08d758a0bc37a0d820227d9a1c89d33b547ce8ff53a1bi0",
+        "name": "Doginals Island #251",
+        "attributes": {
+            "Name": "Piry",
+            "Animals": "Piranha"
+        }
+    },
+    {
+        "inscriptionId": "684a5790d64f8208224c0d603d6e1e4cab08fe1460a11506220cdabf094ad91ai0",
+        "name": "Doginals Island #252",
+        "attributes": {
+            "Name": "Jack Wilder",
+            "Human": "Adventurer"
+        }
+    },
+    {
+        "inscriptionId": "8888d2cdb43d1b01a3273cf97689852505031af737a995f0f7397c09312a8de4i0",
+        "name": "Doginals Island #253",
+        "attributes": {
+            "Name": "Max Thunder",
+            "Human": "Adventurer"
+        }
+    },
+    {
+        "inscriptionId": "ffc7abfd3b9316cf08ca8b02ffba248189c5e472d9c36977c53dbe31bc163282i0",
+        "name": "Doginals Island #254",
+        "attributes": {
+            "Name": "Tucky",
+            "Animals": "Toucan"
+        }
+    },
+    {
+        "inscriptionId": "bea4b297e214cad0b03678a0e9dd2a6e7f2e694a606988c566c02067006d8170i0",
+        "name": "Doginals Island #255",
+        "attributes": {
+            "Name": "Eko",
+            "Human": "Indigenous"
+        }
+    },
+    {
+        "inscriptionId": "7380f0d4de6e9f3d22bdae73ba2ad327c2f6eed13b27170baef1557e5b4421e6i0",
+        "name": "Doginals Island #256",
+        "attributes": {
+            "Name": "Ayara",
+            "Human": "Indigenous"
+        }
+    },
+    {
+        "inscriptionId": "8d964dd044c11c817e059d7685d098318bf63bd6ea41af6aa12ed0332c7762c4i0",
+        "name": "Doginals Island #257",
+        "attributes": {
+            "Name": "Paca",
+            "Animals": "Cuniculus paca"
+        }
+    },
+    {
+        "inscriptionId": "5e77def6110d6e42b86d49a30e3fd0d0bf1c587f5533e147d20a7f809448e680i0",
+        "name": "Doginals Island #258",
+        "attributes": {
+            "Name": "Rare Pearls",
+            "Item": "Gemstone"
+        }
+    },
+    {
+        "inscriptionId": "93493489a508ccd966eb2e2b38599a13d2cf67ca08e55ba2693a62c64b378399i0",
+        "name": "Doginals Island #259",
+        "attributes": {
+            "Name": "Kato",
+            "Human": "Indigenous"
+        }
+    },
+    {
+        "inscriptionId": "56f349e7ec08aeeed54f82fec435f53db33b6552a322f448c8f3984eabe0b9d0i0",
+        "name": "Doginals Island #260",
+        "attributes": {
+            "Name": "Glider",
+            "Animals": "Dragonfly"
+        }
+    },
+    {
+        "inscriptionId": "417c141c11017f84f3388ef097405cf1933acf085825578abfa78c53b919c4cbi0",
+        "name": "Doginals Island #261",
+        "attributes": {
+            "Name": "One-Eyed Willy",
+            "Human": "gold-digger"
+        }
+    },
+    {
+        "inscriptionId": "17ff69297184771ee7ea3eba3be3ffe763abfe2d191d1c8ca442b274c5d93b83i0",
+        "name": "Doginals Island #262",
+        "attributes": {
+            "Name": "Olo",
+            "Human": "Indigenous"
+        }
+    },
+    {
+        "inscriptionId": "1c83bb96fea323c414a19286e192a956cd6b346a645803b3642a9eed775c51e3i0",
+        "name": "Doginals Island #263",
+        "attributes": {
+            "Name": "Babby",
+            "Animals": "Baboon"
+        }
+    },
+    {
+        "inscriptionId": "fbf3a9e40b0613e6d4c937640e5ceaa4020d94a05b2430237b398855405b87b6i0",
+        "name": "Doginals Island #264",
+        "attributes": {
+            "Name": "Fossy",
+            "Animals": "Fossa"
+        }
+    },
+    {
+        "inscriptionId": "c189337c9999a55c74f7c0cc200502f59076b27cbba1cfa311d0c8d84e1d5db9i0",
+        "name": "Doginals Island #265",
+        "attributes": {
+            "Name": "Vicua",
+            "Animals": "Vicugna vicugna"
+        }
+    },
+    {
+        "inscriptionId": "2e61ba5847fcc14f3d8b56460b83e37301436204dc803d211a495e0addcfea80i0",
+        "name": "Doginals Island #266",
+        "attributes": {
+            "Name": "Royal Necklace",
+            "Item": "Jewelry"
+        }
+    },
+    {
+        "inscriptionId": "307c62fc34b3ec940bf04efa8260d5fdf609c79da4f592ca7482309b869dfa0ai0",
+        "name": "Doginals Island #267",
+        "attributes": {
+            "Name": "Golden Idol",
+            "Item": "Artifact"
+        }
+    },
+    {
+        "inscriptionId": "7fc90dc1dd90012184f39c4e354150973b9007aaae341bdb0ee2102d0ef12244i0",
+        "name": "Doginals Island #268",
+        "attributes": {
+            "Name": "Raja",
+            "Human": "Indigenous"
+        }
+    },
+    {
+        "inscriptionId": "bc8b6e4db4b7061dd4f36987f812e294582775a304e284046a1e373df108596fi0",
+        "name": "Doginals Island #269",
+        "attributes": {
+            "Name": "Margay",
+            "Animals": "Leopardus wiedii"
+        }
+    },
+    {
+        "inscriptionId": "5907160ee519e4f0670eb98f9c5d30d0a5d91d9cc07e656a74d2378ccedafcf7i0",
+        "name": "Doginals Island #270",
+        "attributes": {
+            "Name": "Xilo",
+            "Human": "Indigenous"
+        }
+    },
+    {
+        "inscriptionId": "e7a3fb3b0e55fd5b49dc5328905e47d8bfa04da1ebca27e3269d9096580ec6edi0",
+        "name": "Doginals Island #271",
+        "attributes": {
+            "Name": "Piggy",
+            "Animals": "Peccary"
+        }
+    },
+    {
+        "inscriptionId": "3d892bda95bdb254387277833fc154285436617f9889eff11a057d7098b3eeedi0",
+        "name": "Doginals Island #272",
+        "attributes": {
+            "Name": "Xerry",
+            "Animals": "Xerus"
+        }
+    },
+    {
+        "inscriptionId": "b16e89e7f68d067e4609bd39a623426afd550c1c238a58045d7a01613091c6bai0",
+        "name": "Doginals Island #273",
+        "attributes": {
+            "Name": "Tammy",
+            "Animals": "Tamarin"
+        }
+    },
+    {
+        "inscriptionId": "8619535c8da4230c802e4ce989fdee6a853baa330eba168d5343c4707ed39068i0",
+        "name": "Doginals Island #274",
+        "attributes": {
+            "Name": "Stealthy",
+            "Animals": "Jaguarundi"
+        }
+    },
+    {
+        "inscriptionId": "c41ff95d6f1adbea9d70676119cd53581f3ae11507e9e7d1405120e66dc8e3c7i0",
+        "name": "Doginals Island #275",
+        "attributes": {
+            "Name": "Tarry",
+            "Animals": "Tarantula"
+        }
+    },
+    {
+        "inscriptionId": "276514336f1a92fa945a37128499345acd792c298508e7211fa638d9aea842b5i0",
+        "name": "Doginals Island #276",
+        "attributes": {
+            "Name": "Piko",
+            "Human": "Indigenous"
+        }
+    },
+    {
+        "inscriptionId": "beaefc167567949819e3508d28f6a03e6afc81a265647de302a2160a5cef0018i0",
+        "name": "Doginals Island #277",
+        "attributes": {
+            "Name": "Viner",
+            "Animals": "Vine Snake"
+        }
+    },
+    {
+        "inscriptionId": "e134bff90f97342a2520b7e443c68b424bb646bd6947eaaa8c7e58d7d5f9f386i0",
+        "name": "Doginals Island #278",
+        "attributes": {
+            "Name": "Zipper",
+            "Animals": "Flying Squirrel"
+        }
+    },
+    {
+        "inscriptionId": "1d30f4644936b092d61d831bb0403ab0e773859a720e2e2381c630f474fd3433i0",
+        "name": "Doginals Island #279",
+        "attributes": {
+            "Name": "Lost Scepter",
+            "Item": "Artifact"
+        }
+    },
+    {
+        "inscriptionId": "01ee0b41e71c6c31890ab2d3e2cf7dfd8026c66a2b32d6139624f80e0971687fi0",
+        "name": "Doginals Island #280",
+        "attributes": {
+            "Name": "Koalie",
+            "Animals": "Koala"
+        }
+    },
+    {
+        "inscriptionId": "1410f5e0694ec591f262fce223d864490302609f476a74558279d69862ea7877i0",
+        "name": "Doginals Island #281",
+        "attributes": {
+            "Name": "Nandy",
+            "Animals": "Nandu"
+        }
+    },
+    {
+        "inscriptionId": "07f34528cdd05e68b12b89dc139b69d817b5fada0d77b43cd6904bfff8df2178i0",
+        "name": "Doginals Island #282",
+        "attributes": {
+            "Name": "Creeper",
+            "Animals": "Centipede"
+        }
+    },
+    {
+        "inscriptionId": "9f29c4be5e0b59557d7a315431b3a80cdba8827368e2686ffe1c9e9fae93f4fai0",
+        "name": "Doginals Island #283",
+        "attributes": {
+            "Name": "Hippy",
+            "Animals": "Hippopotamus"
+        }
+    },
+    {
+        "inscriptionId": "01365d6762a385af3ce46d3c85885a92ddb5b067b89fbc3a11f3837d79f7b315i0",
+        "name": "Doginals Island #284",
+        "attributes": {
+            "Name": "Chatter",
+            "Animals": "Macaque"
+        }
+    },
+    {
+        "inscriptionId": "439a77e1a18a020f64f5aa788adac7e0ab814a93db38b215d79ccdd27f9bf611i0",
+        "name": "Doginals Island #285",
+        "attributes": {
+            "Name": "Muddy",
+            "Animals": "Mudskipper"
+        }
+    },
+    {
+        "inscriptionId": "a6ac3093867e2bd3dae681a68af94a0aea63a489f9339ad4bd84d14304be4d80i0",
+        "name": "Doginals Island #286",
+        "attributes": {
+            "Name": "Cormy",
+            "Animals": "Cormorant"
+        }
+    },
+    {
+        "inscriptionId": "eb8b9c7c4ac8bada067120ef236fee65192740d25b7a206bb13a8343af65c429i0",
+        "name": "Doginals Island #287",
+        "attributes": {
+            "Name": "Slinker",
+            "Animals": "Margay"
+        }
+    },
+    {
+        "inscriptionId": "cb4fd3785c84369239309cc25d76543e81dc1b4f64dd5fa3893c2d925d6bd9bbi0",
+        "name": "Doginals Island #288",
+        "attributes": {
+            "Name": "Rino",
+            "Animals": "Rhinoceros"
+        }
+    },
+    {
+        "inscriptionId": "f860e1af1a50e9128ad4117244ff8be4a3d4b593ab5dc3cee9ce526db3bccd5ai0",
+        "name": "Doginals Island #289",
+        "attributes": {
+            "Name": "Nora Gale",
+            "Human": "Adventurer"
+        }
+    },
+    {
+        "inscriptionId": "a3443670ac4ed0c3445402de908b0c46ab26c85ccdc93587a955e293d797a76ei0",
+        "name": "Doginals Island #290",
+        "attributes": {
+            "Name": "Sprayer",
+            "Animals": "Spitting Cobra"
+        }
+    },
+    {
+        "inscriptionId": "57a50e43e106bce96f31836f668be67eaf47c2d785ee5a67c6867747a0194c07i0",
+        "name": "Doginals Island #291",
+        "attributes": {
+            "Name": "Dart",
+            "Animals": "Poison Dart Frog"
+        }
+    },
+    {
+        "inscriptionId": "f1e3b9e0982b5ced92f9831954bb90b57a38992cdc753d91741b3dd78a727400i0",
+        "name": "Doginals Island #292",
+        "attributes": {
+            "Name": "Wattled Curassow",
+            "Animals": "Crax globulosa"
+        }
+    },
+    {
+        "inscriptionId": "a13e9eb547bd7a47316dccfb28714db47d61d37ac577b7f24207ccba1010ac6di0",
+        "name": "Doginals Island #293",
+        "attributes": {
+            "Name": "Ossy",
+            "Animals": "Opossum"
+        }
+    },
+    {
+        "inscriptionId": "b66d07c97ea3a1520a8237f3df22d086d8da747db9de0022765b5a4ec096e156i0",
+        "name": "Doginals Island #294",
+        "attributes": {
+            "Name": "Jaggy",
+            "Animals": "Jaguar"
+        }
+    },
+    {
+        "inscriptionId": "306564bc53d76efe7c8fc1cb52562edb944cbf16a55d7a65ac2633e8d2370a77i0",
+        "name": "Doginals Island #295",
+        "attributes": {
+            "Name": "Crystal Armor",
+            "Item": "Artifact"
+        }
+    },
+    {
+        "inscriptionId": "1131d3867c3de2cfc789551089c3287f731d849a76193d68315d4d4e17126ca2i0",
+        "name": "Doginals Island #296",
+        "attributes": {
+            "Name": "Busher",
+            "Animals": "Bushbaby"
+        }
+    },
+    {
+        "inscriptionId": "7ba443b6b1ba2e02e0187abbf94c5b9a96133d4c12a2e1fe21fcde8efb387e7di0",
+        "name": "Doginals Island #297",
+        "attributes": {
+            "Name": "Rumi",
+            "Human": "Indigenous"
+        }
+    },
+    {
+        "inscriptionId": "a4c7a7bb65e1bbad8ebed4962fe36932997895acdf737ad4a4c025884bc057e7i0",
+        "name": "Doginals Island #298",
+        "attributes": {
+            "Name": "Dogi",
+            "Animals": "shiba-inu"
+        }
+    },
+    {
+        "inscriptionId": "6768490c13440cd1a033ce71030670a6f7a58fd2cd077b4fcf4cc6bea9c4f69ei0",
+        "name": "Doginals Island #299",
+        "attributes": {
+            "Name": "Bobber",
+            "Animals": "Water Buffalo"
+        }
+    },
+    {
+        "inscriptionId": "18dcba9f65190a944accab1a357a6c092becd7caf90a6e4195db78b52c5b7b06i0",
+        "name": "Doginals Island #300",
+        "attributes": {
+            "Name": "Clinger",
+            "Animals": "Kinkajou"
+        }
+    },
+    {
+        "inscriptionId": "bf7a9f89e9f2886d0a4f4272f82dfa75101e622525f5a6eefc2c64fa757a948ai0",
+        "name": "Doginals Island #301",
+        "attributes": {
+            "Name": "Prickle",
+            "Animals": "Hedgehog"
+        }
+    }
+]
